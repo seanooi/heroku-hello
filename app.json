@@ -1,0 +1,6 @@
+{
+  "name": "Hello world Sample",
+  "description": "A hello world app using sinatra",
+  "repository": "https://github.com/seanooi/heroku-hello",
+  "keywords": ["hello", "world", "sinatra"]
+}
